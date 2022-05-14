@@ -1,4 +1,4 @@
-module projects/linkparser
+module github.com/caleberi/linkparser.git
 
 go 1.17
 
