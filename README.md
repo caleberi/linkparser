@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Exercise #4: HTML Link Parser
 
 [![exercise status: released](https://img.shields.io/badge/exercise%20status-released-green.svg?style=for-the-badge)](https://gophercises.com/exercises/link)
@@ -72,3 +73,6 @@ There is a complete series on algorithms and graph theory, though at this time i
 ## Bonus
 
 The only bonuses here are to improve your tests and edge-case coverage.
+=======
+# linkparser
+>>>>>>> 0f9d22663676b9052310726a85ac94c4cedccc83
