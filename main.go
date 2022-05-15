@@ -8,7 +8,7 @@ import (
 	"os"
 	"path/filepath"
 
-	lib "projects/linkparser/lib"
+	lib "github.com/caleberi/linkparser/lib"
 )
 
 func main() {
